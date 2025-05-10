@@ -1,0 +1,1 @@
+# **na aula de hoje aprendemos sobre versionamento e comandos basicos do git sem utilizar o github**
